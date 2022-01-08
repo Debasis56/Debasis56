@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Debasis Sahoo
 - 👀 I’m interested in exploring different field of technologies.
 - 🌱 I’m currently learning at IIIT Bhubaneswar
-- 💞️ I’m looking to collaborate on a variety of Android Projects
+- 💞️ I’m looking to collaborate on a variety of Android and Web Development projects.
 - 📫 How to reach me : b519019@iiit-bh.ac.in
 
 <!---
