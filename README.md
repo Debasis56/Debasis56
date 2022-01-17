@@ -20,10 +20,9 @@
 
 
 <hr>
-<div align="center" >
-![download](https://user-images.githubusercontent.com/56356721/149813428-48a0ace3-50e7-45c8-bef6-617da8ef8a00.png)
-
-</div>
+<p align="center">
+  <img src="https://github.com/Debasis56/Debasis56/blob/main/971.jpg" width="600"height="400"/>
+</p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <strong>Debasis</strong></h1>
 <h3 align="center"> React Front End Web Developer | Android App Developer | UI/UX Designer </h3>
@@ -51,7 +50,7 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Debasis56&label=Profile%20views&color=brightgreen&style=flat" alt="Debasis" /> </p>
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<img align="right" width=400px alt="Unicorn" src="https://github.com/Debasis56/Debasis56/blob/main/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
