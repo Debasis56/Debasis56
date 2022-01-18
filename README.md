@@ -28,7 +28,7 @@ search of a <b>platform</b> to
     <b>grow</b> &nbsp.
   </strong> 
   <br>
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="20"/> <b><i>GROWING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/> <b><i>HUSTLING & GROWING!!!</i></b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="20" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Debasis56&label=Profile%20views&color=brightgreen&style=flat" alt="Debasis" /> </p>
@@ -66,7 +66,7 @@ search of a <b>platform</b> to
  <img src="https://github.com/Debasis56/Debasis56/blob/main/ba4df964057391fa12c5140e97016a06.gif" width="50px" alt="GitHub-Status"/>&nbsp;<strong><b>GitHub Stats</b></strong><img src="https://github.com/Debasis56/Debasis56/blob/main/ba4df964057391fa12c5140e97016a06.gif" width="50px" alt="GitHub-Status"/></p>
  
  <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debasis56&show_icons=true&hide_border=true&theme=radical" width="35%" alt="Debasis's Top Languages">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debasis56&show_icons=true&hide_border=true&theme=radical" width="38%" alt="Debasis's Top Languages">
 
  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="right" width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=Debasis56&theme=react&border=eb1394&ring=eb1394&fire=eb1394" alt="Debasis56" />
